@@ -1,6 +1,6 @@
 =Architechture=
 ==Overview==
-http://www.flickr.com/photos/32644539@N04/3048372411/
+http://farm4.static.flickr.com/3048/3048372411_a827b1eb43.jpg
 
 ==Django/Python User Interface==
 http://www.flickr.com/photos/32644539@N04/3048372383/in/photostream/
